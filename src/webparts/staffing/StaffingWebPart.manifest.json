@@ -21,7 +21,11 @@
     "description": { "default": "Staffing description" },
     "officeFabricIconFontName": "Page",
     "properties": {
-      "description": "Staffing"
+      "description": "Staffing",
+      "test": "Multi-line text field",
+      "test1": true,
+      "test2": "2",
+      "test3": true
     }
   }]
 }
