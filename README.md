@@ -1,4 +1,4 @@
-# sp-web-part-staffing
+# staffing-web-part
 
 ## Summary
 
