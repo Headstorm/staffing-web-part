@@ -1,6 +1,6 @@
 {
   "$schema": "https://developer.microsoft.com/json-schemas/spfx/client-side-web-part-manifest.schema.json",
-  "id": "b4ce3496-2c43-4ce4-be37-eb2c726317cf",
+  "id": "999058a7-39bc-43e2-ab34-2bb395d167eb",
   "alias": "StaffingWebPart",
   "componentType": "WebPart",
 
@@ -21,11 +21,7 @@
     "description": { "default": "Staffing description" },
     "officeFabricIconFontName": "Page",
     "properties": {
-      "description": "Staffing",
-      "test": "Multi-line text field",
-      "test1": true,
-      "test2": "2",
-      "test3": true
+      "description": "Staffing"
     }
   }]
 }

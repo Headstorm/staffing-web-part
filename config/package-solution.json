@@ -1,8 +1,8 @@
 {
   "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
   "solution": {
-    "name": "sp-web-part-staffing-client-side-solution",
-    "id": "dbc29ea6-d852-4e1f-a1cd-016beabb393f",
+    "name": "sp-web-part-react-client-side-solution",
+    "id": "f3f8f3a9-93e6-4e22-9442-87b3d3285cdf",
     "version": "1.0.0.0",
     "includeClientSideAssets": true,
     "isDomainIsolated": false,
@@ -15,6 +15,6 @@
     }
   },
   "paths": {
-    "zippedPackage": "solution/sp-web-part-staffing.sppkg"
+    "zippedPackage": "solution/sp-web-part-react.sppkg"
   }
 }

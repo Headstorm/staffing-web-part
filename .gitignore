@@ -13,6 +13,8 @@ release
 solution
 temp
 *.sppkg
+.history
+.vscode
 
 # Coverage directory used by tools like istanbul
 coverage
