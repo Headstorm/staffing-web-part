@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@headstorm/foundry-react-ui": "^1.4.0",
-    "@microsoft/sp-core-library": "1.12.1",
+    "@microsoft/sp-core-library": "1.16.1",
     "@microsoft/sp-lodash-subset": "1.12.1",
     "@microsoft/sp-office-ui-fabric-core": "1.12.1",
     "@microsoft/sp-property-pane": "1.12.1",
